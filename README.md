@@ -1,9 +1,9 @@
 # ngehek-ig
-MULTI BRUTE INSTAGRAM
+MULTI BRUTE INSTAGRAM <br><br>
 
-$ pkg update && pkg upgrade
-$ pkg install curl && pkg install jq
-$ git clone https://github.com/ICT154/ngehek-ig
-$ bash ngehek-ig.sh
+$ pkg update && pkg upgrade <br>
+$ pkg install curl && pkg install jq <br>
+$ git clone https://github.com/ICT154/ngehek-ig <br>
+$ bash ngehek-ig.sh <br>
 
 Done :)
