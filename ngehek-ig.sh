@@ -1,5 +1,5 @@
 #!/bin/bash
-#author Zan
+
 
 #color(bold)
 red='\e[1;31m'
